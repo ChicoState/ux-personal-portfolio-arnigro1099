@@ -8,4 +8,4 @@ Many projects ahead!
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+[Solving the Shower Handle](j01/)
