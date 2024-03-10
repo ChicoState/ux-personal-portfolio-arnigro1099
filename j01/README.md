@@ -1,4 +1,5 @@
 # Solving the Shower Handle Mystery
+### By Alex Nigro - March 10th, 2024
 Now you might be thinking, shower handles? Really? They are not that difficult to figure out and we use them all the time. Well, while we may encounter them quite often, there are a plethora of variations of shower handles that all usually follow standard industry **conventions**. Some of these conventions include being able to turn the handle to adjust the heat of the water, turning the handle to a certain angle to either turn on or turn off the water flow, turning the handle to adjust the pressure of the water flow, and lableing which side of the mechanism is for hot and cold water. 
 
 ## Variations and Proof of Conventions
