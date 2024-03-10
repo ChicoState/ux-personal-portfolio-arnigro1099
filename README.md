@@ -8,4 +8,4 @@ Many projects ahead!
 
 ## UX Journal
 
-[Solving the Shower Handle](j01/)
+[Solving the Shower Handle Mystery](j01/)
